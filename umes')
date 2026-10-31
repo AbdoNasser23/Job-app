@@ -1,0 +1,14 @@
+[90m= [39m{#7490
+    +"[1mid[22m": [32m"[39m[32m01a17330-5163-711e-80af-07a52521fbae[39m[32m"[39m,
+    +"[1mfile_name[22m": [32m"[39m[32mfake_resume_test.pdf[39m[32m"[39m,
+    +"[1mfile_uri[22m": [32m"[39m[32mhttps://res.cloudinary.com/jvv2nkyr/raw/upload/v1792933908/jobboard/cvs/resume_1792933907.pdf[39m[32m"[39m,
+    +"[1mcontact_details[22m": [32m"[39m[32m{[39m\"[32mname[39m\"[32m:[39m\"[32mJob Seeker[39m\"[32m,[39m\"[32memail[39m\"[32m:[39m\"[32mjob@seeker.com[39m\"[32m}[39m[32m"[39m,
+    +"[1msummary[22m": [32m"[39m[32mEntry-level web developer with hands-on experience building responsive web applications using PHP, Laravel, JavaScript, HTML, and CSS. Interested in clean code, database design, and creating useful user experiences.[39m[32m"[39m,
+    +"[1mskills[22m": [32m"[39m[32m[[39m\"[32mPHP[39m\"[32m,[39m\"[32mJavaScript[39m\"[32m,[39m\"[32mSQL[39m\"[32m,[39m\"[32mLaravel[39m\"[32m,[39m\"[32mTailwind CSS[39m\"[32m,[39m\"[32mHTML5[39m\"[32m,[39m\"[32mCSS3[39m\"[32m,[39m\"[32mREST APIs[39m\"[32m,[39m\"[32mGit[39m\"[32m,[39m\"[32mGitHub[39m\"[32m,[39m\"[32mVS Code[39m\"[32m,[39m\"[32mMySQL[39m\"[32m][39m[32m"[39m,
+    +"[1mexperience[22m": [32m"[39m[32m[{[39m\"[32mtitle[39m\"[32m:[39m\"[32mWeb Development Intern[39m\"[32m,[39m\"[32mcompany[39m\"[32m:[39m\"[32mBrightPath Software (Fictional)[39m\"[32m,[39m\"[32mstartDate[39m\"[32m:[39m\"[32mJun 2025[39m\"[32m,[39m\"[32mendDate[39m\"[32m:[39m\"[32mAug 2025[39m\"[32m,[39m\"[32mresponsibilities[39m\"[32m:[[39m\"[32mBuilt and updated Laravel features for a sample job board application.[39m\"[32m,[39m\"[32mCreated database migrations and Eloquent relationships.[39m\"[32m,[39m\"[32mCollaborated with a small team using Git branches and pull requests.[39m\"[32m]}][39m[32m"[39m,
+    +"[1meducation[22m": [32m"[39m[32m[{[39m\"[32mdegree[39m\"[32m:[39m\"[32mBachelor's Degree in Computer Science[39m\"[32m,[39m\"[32minstitution[39m\"[32m:[39m\"[32mExample University (Fictional)[39m\"[32m,[39m\"[32mstartYear[39m\"[32m:[39m\"[32m2022[39m\"[32m,[39m\"[32mendYear[39m\"[32m:[39m\"[32m2026[39m\"[32m}][39m[32m"[39m,
+    +"[1muser_id[22m": [32m"[39m[32m01a1542e-7560-737b-92f7-ae61bcf057a4[39m[32m"[39m,
+    +"[1mcreated_at[22m": [32m"[39m[32m2026-10-25 13:11:48[39m[32m"[39m,
+    +"[1mupdated_at[22m": [32m"[39m[32m2026-10-25 13:11:51[39m[32m"[39m,
+    +"[1mdeleted_at[22m": [36mnull[39m,
+  }

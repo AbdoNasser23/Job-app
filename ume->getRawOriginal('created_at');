@@ -1,0 +1,17 @@
+[90m= [39m[34;4mApp\Models\Resume[39;24m {#7961
+    [34mid[39m: [32m"[39m[32m01a187f7-a89d-7101-8122-d665a4e153ae[39m[32m"[39m,
+    [34mfile_name[39m: [32m"[39m[32mfake_resume_test.pdf[39m[32m"[39m,
+    [34mfile_uri[39m: [32m"[39m[32mhttps://res.cloudinary.com/jvv2nkyr/raw/upload/v1793282519/jobboard/cvs/resume_1793282515.pdf[39m[32m"[39m,
+    [34mcontact_details[39m: <<<[32mEOS[39m
+      [32mName: Job Seeker[39m
+      [32mEmail: job@seeker.com[39m
+      [32mEOS[39m,
+    [34msummary[39m: [32m"[39m[32mEntry-level web developer with hands-on experience building responsive web applications using PHP, Laravel, JavaScript, HTML, and CSS. Interested in clean code, database design, and creating useful user experiences.[39m[32m"[39m,
+    [34mskills[39m: [32m"[39m[32mPHP, JavaScript, SQL, Laravel, Tailwind CSS, HTML5, CSS3, REST APIs, Git, GitHub, VS Code, MySQL[39m[32m"[39m,
+    [34mexperience[39m: [32m"[39m[32mWeb Development Intern at BrightPath Software (Fictional) from Jun 2025 to Aug 2025: Built and updated Laravel features for a sample job board application. Created database migrations and Eloquent relationships. Collaborated with a small team using Git branches and pull requests.[39m[32m"[39m,
+    [34meducation[39m: [32m"[39m[32mBachelor's Degree in Computer Science from Example University (Fictional), 2022 – 2026[39m[32m"[39m,
+    [34muser_id[39m: [32m"[39m[32m01a1542e-7560-737b-92f7-ae61bcf057a4[39m[32m"[39m,
+    [34mcreated_at[39m: [32m"[39m[32m2026-10-29 14:01:57[39m[32m"[39m,
+    [34mupdated_at[39m: [32m"[39m[32m2026-10-29 14:28:40[39m[32m"[39m,
+    [34mdeleted_at[39m: [36mnull[39m,
+  }
