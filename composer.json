@@ -7,8 +7,8 @@
     "license": "MIT",
     "repositories": [
         {
-            "type": "path",
-            "url": "../Job_shared"
+            "type": "vcs",
+            "url": "https://github.com/AbdoNasser23/Job-shared.git"
         }
     ],
     "require": {
